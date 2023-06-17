@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Fifa</title>
+</head>
+<body>
+    <h2>Fifa</h2>
+    <p>
+        Standoff 2 представляет собой классический шутер от первого лица с различными режимами игры и арсеналом современного российского и иностранного оружия. Каждое оружие обладает различным набором характеристик, ограничивающих тактические возможности игрока: пробиваемость брони, отдача, темп стрельбы, цена, награда за убийство, боезапас[5].
+
+На начальных этапах игры доступны различные режимы игры, такие как закладка бомбы, командный бой, эскалация и другие. Когда игрок достигнет пятнадцатого уровня, ему откроется режим «Союзники», матчи в котором проходят в формате 2х2, а при достижении двадцатого — соревновательный[6]
+
+В отличие от большинства мобильных шутеров, в Standoff 2 отсутствует автострельба и помощь в наведении, но в то же время есть и гибкая настройка управления: возможность перемещать, изменять видимость и размеры большей части элементов интерфейса. За реальные деньги в игре продаются только декоративные предметы, не влияющие на игровой процесс[7].
+    </p>
+    <div class="fifa-img">
+        <img src="Messi.jpg" alt="">
+        <img src="Neymare.webp" alt="">
+        <img src="Mbappe.webp" alt="">
+    </div>
+
+   
+    <table class="standof2 ">
+        <tr>
+            <td></td>
+            <td>tim</td>
+        </tr>
+        <tr>
+            <td>Mbappe</td>
+            <td>PSG</td>
+        </tr>
+        <tr>
+            <td>Messi</td> 
+            <td>PSG</td> 
+        </tr>
+        <tr>
+            <td>Yashin</td>
+            <td>Dinamo</td>
+        </tr>
+        <tr>
+            <td>Neymare</td>
+            <td>PSG</td>
+        </tr>
+        <tr>
+            <td>Gavi</td>
+            <td>Bazcelona</td>
+        </tr>
+        <tr>
+            <td>Ronaldo</td>
+            <td>Inter</td>
+        </tr>
+    </table>
+    <iframe width="100%" height="450" src="https://www.youtube.com/embed/z7xI58dFZjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        
+</body>
+</html>
